@@ -1,6 +1,6 @@
 ---
 title: "Final Project"
-author: "Khyati Naik / Tyler Brown"
+author: "Khyati Naik"
 date: "`r Sys.Date()`"
 ---
 
